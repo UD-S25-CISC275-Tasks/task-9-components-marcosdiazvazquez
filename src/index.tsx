@@ -7,12 +7,20 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
 const root = ReactDOM.createRoot(
+<<<<<<< HEAD
     document.getElementById("root") as HTMLElement
+=======
+    document.getElementById("root") as HTMLElement,
+>>>>>>> solved-stated
 );
 root.render(
     <React.StrictMode>
         <App />
+<<<<<<< HEAD
     </React.StrictMode>
+=======
+    </React.StrictMode>,
+>>>>>>> solved-stated
 );
 
 // If you want to start measuring performance in your app, pass a function
